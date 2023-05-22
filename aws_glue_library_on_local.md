@@ -41,14 +41,13 @@ Run testing python script locally to process ETL pipeline using AWS Glue library
 
  ![execute_pythons](https://github.com/kukin315/blog/assets/44157055/ee15a893-7ca9-4c2c-8579-64efa758d14d)
 
-## References
-Document for installing AWS glue libs on local
-
-https://github.com/awslabs/aws-glue-libs or https://docs.aws.amazon.com/glue/latest/dg/aws-glue-programming-etl-libraries.html
-### PySpark 3.1.1-amzn-0 (link) and Maven (link)
+### Using PySpark 3.1.1-amzn-0 and Maven
 ![py-spark](https://github.com/kukin315/blog/assets/44157055/f92d8195-b9e0-4fdd-bf1e-28910e339517)
 ### Using Java JVM 11
 ![jvm](https://github.com/kukin315/blog/assets/44157055/85ba6959-54ab-4e17-bdcd-a9ec1b508967)
 
+## References
+Document for installing AWS glue libs on local
 
+https://github.com/awslabs/aws-glue-libs or https://docs.aws.amazon.com/glue/latest/dg/aws-glue-programming-etl-libraries.html
 
