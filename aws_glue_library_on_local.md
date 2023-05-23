@@ -1,10 +1,11 @@
 # Apply AWS Glue Library in Development
+### This is practical experiment that highly applying in big project and helping developer & tester to complete their works effectively.
 ## Benefit
-This article is to share the context of using AWS glue library locally for benefit of:
+This article is to share the context of using AWS glue library on local for benefit of:
 
-    •	Development activities themselves.
-    •	Testing.
-    •	And cost saving for project.
+    •	Development activities.
+    •	Testing in any environment.
+    •	Project cost saving.
 
 ## Context
 At first, the technical approach is approved by client to implement AWS glue job for loading data from AWS S3 to Aurora RDS PostgreSQL. It's very interesting that it could be applied what we have researched by creating glue job, creating connection and creating everything need to be deployed for an ETL job. It is the most straightforward tasks to do.
