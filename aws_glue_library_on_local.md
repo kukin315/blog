@@ -1,4 +1,4 @@
-# Apply AWS Glue Library in Development
+# AWS Glue Service - Project cost & effort mitigation
 ### This is practical experiment that highly applying in big project and helping developer & tester to complete their works effectively.
 ## Benefit
 This article is to share the context of using AWS glue library on local for benefit of:
@@ -48,6 +48,9 @@ Run testing python script locally to process ETL pipeline using AWS Glue library
 ![py-spark](https://github.com/kukin315/blog/assets/44157055/f92d8195-b9e0-4fdd-bf1e-28910e339517)
 ### Using Java JVM 11
 ![jvm](https://github.com/kukin315/blog/assets/44157055/85ba6959-54ab-4e17-bdcd-a9ec1b508967)
+
+## Installing complexity: Medium
+It takes around couple of hours to install this library. The stage takes much time is downloading library of maven.
 
 ## References
 Document for installing AWS glue libs on local
